@@ -31,6 +31,19 @@
 
 // -------------------------------------------------------------------------------------
 
+// Do Not Worry about Lines Below
+(function() {
+    var old = console.log;
+    var logger = document.getElementById('logger');
+    console.log = function(message) {
+        if (typeof message == 'object') {
+            logger.innerHTML += (JSON && JSON.stringify ? JSON.stringify(message) : message) + '<br />';
+        } else {
+            logger.innerHTML += message + '<br />';
+        }
+    }
+})();
+
 // 4. Using Json create an object that stores and array of avenger objects with properties of: name, alias, abilities, and age for the original 15 members.
 
 let avengers = `{
