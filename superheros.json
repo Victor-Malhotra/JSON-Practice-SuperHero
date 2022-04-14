@@ -1,0 +1,93 @@
+{
+    "heros": [{
+            "name": "Anthony Edward Tony Stark",
+            "alias": "Iron Man",
+            "abilities": "Armor Suit",
+            "age": 48
+        },
+        {
+            "name": "Victor Mancha",
+            "alias": "Kid Justice",
+            "abilities": "Cyborg, Controls Electricity",
+            "age": 21
+        },
+        {
+            "name": "Hank Pym Scott Lang",
+            "alias": "Ant-Man",
+            "abilities": "Can grow small or large",
+            "age": 49
+        },
+        {
+            "name": "Thor Odinson",
+            "alias": "Thor",
+            "abilities": "Can summon Lightning, Can summon his hammer",
+            "age": 1500
+        },
+        {
+            "name": "Steve Rogers",
+            "alias": "Captain America",
+            "abilities": "Throw and catch his shield, has super strength",
+            "age": 90
+        },
+        {
+            "name": "Wanda Maximoff",
+            "alias": "Scarlet Witch",
+            "abilities": "Reality Warping",
+            "age": 28
+        },
+        {
+            "name": "Bruce Banner",
+            "alias": "Hulk",
+            "abilities": "Super strength, ability to grow larger when more angry, ability to turn into a super destroyer when super angry",
+            "age": 49
+        },
+        {
+            "name": "Carol Danvers",
+            "alias": "Captian Marvel",
+            "abilities": "Super Everything, Flight",
+            "age": 53
+        },
+        {
+            "name": "Peter Benjamin Parker",
+            "alias": "Spiderman",
+            "abilities": "Web Slinging, Spidy Sense(Precognition)",
+            "age": 16
+        },
+        {
+            "name": "Natalia Natasha Alianovna Romanova",
+            "alias": "Black Widow",
+            "abilities": "Martial Arts, Weapons",
+            "age": 88
+        },
+        {
+            "name": "Matthew Michael Murdock",
+            "alias": "Daredevil",
+            "abilities": "Echolocation, Martial Arts",
+            "age": 26
+        },
+        {
+            "name": "James Howlett",
+            "alias": "Wolverine",
+            "abilities": "Regeneration, Slow Aging, Indestructible Bones, Superhuman Senses, Enhanced Everyhting, Unbreakable Retractable Claws",
+            "age": 200
+        },
+        {
+            "name": "The Vision",
+            "alias": "Vision",
+            "abilities": "Superhuman intelligence, strength, speed Superhuman senses, Density control (intangibility, invulnerability), Flight, Regeneration, Solar energy projection, Holographic disguise, Technopathy",
+            "age": 3
+        },
+        {
+            "name": "Clint Barton",
+            "alias": "Hawkeye",
+            "abilities": "Master Archer, Martial Prowess",
+            "age": 20
+        },
+        {
+            "name": "Shang-Chi",
+            "alias": "The Master of Kung Fu",
+            "abilities": "His 10 Rings give him super human everything, ability to control the rings, Martial Arts Master",
+            "age": 24
+        }
+    ]
+}
